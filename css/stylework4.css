@@ -1,0 +1,38 @@
+.body{
+    background-color: black;
+}
+.container{
+    width: 100%;
+
+    
+    
+}
+th, tr, td{
+    padding: 7px;
+    width: 10%;
+
+}
+table{
+    margin: auto;
+
+}
+th{
+    background-color: rgb(237, 90, 90);
+    color: white;
+}
+tr:nth-child(odd){
+    background-color: rgb(209, 207, 207);
+}
+.green{
+    background-color: rgb(95, 141, 95);
+    color: white
+}
+.row{
+    padding: 10px;
+}
+.blue{
+    background-color: rgb(83, 129, 144);
+}
+.row{
+    padding: 10px;
+}

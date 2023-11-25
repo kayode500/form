@@ -1,0 +1,37 @@
+body{
+    background-color: aqua;
+    padding: 20px;
+}
+.inside{
+    background-color: rgb(16, 16, 74);
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    color: white;
+    padding: 20px;
+    border: 5px solid lightblue;
+    text-align: center;
+    font-size: 10px;
+
+}
+h1{
+    color: white;
+}
+input{
+    border-bottom: 1px solid blue;
+    margin: 10px;
+    width: 300px;
+    background-color: rgb(16, 16, 74);
+    border: none;
+    border-bottom: 1px solid lightblue;
+    padding: 10px;
+
+}
+.btn1{
+    color: white;
+    border: 1px solid white;
+    background-color: rgb(16, 16, 74);
+    margin-top: 20px;
+
+    
+}

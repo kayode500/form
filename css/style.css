@@ -1,0 +1,30 @@
+body{
+    background-color: #1abc9c;
+}
+#white{
+    background-color: white;
+    height: 250px;
+    width: 350px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+
+}
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    margin: 10px;
+}
+.btn1{
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #1abc9c;
+    width: 170px;
+    height: 30px;
+    border: none;
+    color: white;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+}
